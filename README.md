@@ -6,18 +6,18 @@ This project focuses on analyzing Netflix’s content dataset using Structured Q
 ## Objective 
 The objective of this project is to leverage SQL for a comprehensive analysis of Netflix’s content dataset to uncover meaningful insights that can inform strategic decisions. Specifically, the project aims to:
 
-Classify and quantify the distribution of content types (movies vs. TV shows) on Netflix
+* Classify and quantify the distribution of content types (movies vs. TV shows) on Netflix
 
-Analyze genre popularity to identify viewer content preferences
+* Analyze genre popularity to identify viewer content preferences
 
-Examine temporal trends in content releases over the years
+* Examine temporal trends in content releases over the years
 
-Assess the geographic diversity of Netflix’s catalog by analyzing country-wise content distribution
+* Assess the geographic diversity of Netflix’s catalog by analyzing country-wise content distribution
 
-Identify top actors, directors, and creators frequently featured on the platform
+* Identify top actors, directors, and creators frequently featured on the platform
 
-Investigate duration trends to understand typical content lengths for both movies and series
+* Investigate duration trends to understand typical content lengths for both movies and series
 
-Build efficient, reusable, and optimized SQL queries for scalable data exploration
+* Build efficient, reusable, and optimized SQL queries for scalable data exploration
 
 By achieving these objectives, the project intends to help stakeholders better understand Netflix’s content portfolio, identify opportunities for content curation, and support data-driven content strategy decisions.
